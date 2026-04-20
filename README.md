@@ -29,7 +29,7 @@ The data files include:
 
 ### Citation:
 
-Papadopoulou M. and Afruni A. (2026) The scientific impact of gender in behaviour, ecology, and evolution: authorship and citation performance. _Animal Behaviour_.
+Papadopoulou, M., & Afruni, A. (2026) The scientific impact of gender in behaviour, ecology and evolution: authorship and citation performance, _Animal Behaviour_, https://doi.org/10.1016/j.anbehav.2026.123563
 
 ### Funding:
 
